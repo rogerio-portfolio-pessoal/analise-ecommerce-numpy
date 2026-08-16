@@ -22,7 +22,7 @@ A plataforma enfrentava o desafio de entender o que diferencia os clientes de al
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/rogerio-portflolio-pessoal/analise-ecommerce-numpy.git](https://github.com/rogerio-portfolio-pessoal/analise-ecommerce-numpy.git)
+   git clone https://github.com/rogerio-portfolio-pessoal/analise-ecommerce-numpy.git
 
 2. Instale as dependências:
    ```bash
